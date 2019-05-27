@@ -30,7 +30,7 @@ To be able to run the application you must have the following installed:
 * npm
 * Run https://github.com/rafaelmtorres/touchbistro-backend
 
-Installation steps are out of the scope of this document.
+To install dependencies run `npm install`
 
 ## Running the app:
 
@@ -57,4 +57,4 @@ It will return an object like this:
 
 ### `npm test`
 
-To run the application tests use the command above.
+To run the application tests use the command above
