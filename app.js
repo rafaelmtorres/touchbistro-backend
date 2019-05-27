@@ -1,6 +1,5 @@
 const express = require('express');
 const body = require('body-parser');
-const logger = require('morgan');
 
 const primeRoutes = require('./routes/prime')
 const app = express();
